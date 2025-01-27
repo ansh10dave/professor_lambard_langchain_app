@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physics Chatbot</title>
+</head>
+<body>
+    <h1>Chat with the Physics Tutor</h1>
+    <form action="/chat" method="post">
+        <label for="chapter">Selected Chapter: {{ chapter }}</label><br><br>
+        <label for="question">Ask a Question:</label><br>
+        <input type="text" id="question" name="question" value=""><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    
+    <h2>Answer:</h2>
+    <p>{{ answer }}</p>
+</body>
+</html>
