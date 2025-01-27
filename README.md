@@ -57,9 +57,4 @@ The backend should expose an endpoint (/chat) to handle POST requests.
     Push to the branch (git push origin feature-name)
     Create a new Pull Request
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-Contact
-
 For any questions, feel free to open an issue on GitHub or contact me directly
