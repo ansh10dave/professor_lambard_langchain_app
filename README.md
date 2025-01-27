@@ -57,4 +57,4 @@ The backend should expose an endpoint (/chat) to handle POST requests.
     Push to the branch (git push origin feature-name)
     Create a new Pull Request
 
-For any questions, feel free to open an issue on GitHub or contact me directly
+For any questions, feel free to open an issue on GitHub or contact me directly on my email ansh10dave@gmail.com. 
