@@ -10,9 +10,13 @@ The app features a chapter picker, where users can select a chapter, ask questio
 ### Features
 
 Chapter Selection: Users can choose from various chapters (e.g., Fluid Mechanics, Thermodynamics, Waves) to ask questions.
+
 Interactive Chat Interface: Users can ask questions, and the app responds with answers from the backend model.
+
 AI-Powered Q&A: Questions are sent to an AI backend which processes the queries and provides context-aware answers.
+
 Loading Indicator: The app shows a loading screen while waiting for a response from the backend.
+
 Dynamic Context Management: The app retains the context of previous answers and updates as new questions are asked.
 
 ### How to Use
