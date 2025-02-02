@@ -50,7 +50,8 @@ The backend should expose an endpoint (/chat) to handle POST requests.
 #### Some images 
 <img src="https://github.com/user-attachments/assets/a7f80f2b-91f8-4aa5-a534-afa8070d31f5" width="250">
 <img src="https://github.com/user-attachments/assets/39fdbb41-c49c-4bc7-8ec9-2843eab7667f" width="250">
-<img src="https://github.com/user-attachments/assets/0b3ac3f3-3852-4b0f-a238-50900ca132a8" width="250">
+<img stc="https://github.com/user-attachments/assets/0725f049-c175-4860-a0a1-6abfaf521d50" width="250">
+
 
 
 
