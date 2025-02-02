@@ -47,6 +47,10 @@ The backend should expose an endpoint (/chat) to handle POST requests.
         Once the backend processes the question, the app will show the answer in a message bubble in the chat interface.
         If the backend is processing the request, the app will display a loading message.
 
+#### Some images 
+![WhatsApp Image 2025-02-02 at 12 52 47_215cf659](https://github.com/user-attachments/assets/39fdbb41-c49c-4bc7-8ec9-2843eab7667f)
+
+
 ### Tech Stack
 
     Frontend: React Native, Expo
@@ -62,3 +66,6 @@ The backend should expose an endpoint (/chat) to handle POST requests.
     Create a new Pull Request
 
 For any questions, feel free to open an issue on GitHub or contact me directly on my email ansh10dave@gmail.com. 
+
+
+
