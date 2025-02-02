@@ -48,7 +48,12 @@ The backend should expose an endpoint (/chat) to handle POST requests.
         If the backend is processing the request, the app will display a loading message.
 
 #### Some images 
-![WhatsApp Image 2025-02-02 at 12 52 47_215cf659](https://github.com/user-attachments/assets/39fdbb41-c49c-4bc7-8ec9-2843eab7667f)
+<img src="https://github.com/user-attachments/assets/39fdbb41-c49c-4bc7-8ec9-2843eab7667f" width="60">
+<img src="https://github.com/user-attachments/assets/a7f80f2b-91f8-4aa5-a534-afa8070d31f5" width="300">
+<img src="https://github.com/user-attachments/assets/0b3ac3f3-3852-4b0f-a238-50900ca132a8" width="300">
+
+
+
 
 
 ### Tech Stack
